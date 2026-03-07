@@ -1,0 +1,33 @@
+# Dependencies
+.dart_tool/
+.packages
+.pub/
+pubspec.lock
+
+# Build outputs
+build/
+android/
+ios/
+web/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Private config (do not commit)
+AGENTS.md
+SOUL.md
+USER.md
+TOOLS.md
+HEARTBEAT.md
+IDENTITY.md
+memory/
+.clawhub/
+.openclaw/
+skills/
+personal/

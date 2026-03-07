@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "rednote": {
+      "version": "1.2.2",
+      "installedAt": 1772014390069
+    },
+    "self-improving-agent": {
+      "version": "1.0.11",
+      "installedAt": 1772722849572
+    },
+    "Github": {
+      "version": "1.0.0",
+      "installedAt": 1772723017362
+    },
+    "baidu-search": {
+      "version": "1.1.0",
+      "installedAt": 1772723563713
+    },
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1772724548833
+    }
+  }
+}

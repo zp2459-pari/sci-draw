@@ -1,0 +1,1 @@
+ build/web/icons/Icon-192.png build/web/manifest.json build/web/index.html:  /home/zhang/.openclaw/workspace/sci-draw/web/icons/Icon-192.png /home/zhang/.openclaw/workspace/sci-draw/web/manifest.json /home/zhang/.openclaw/workspace/sci-draw/web/index.html
