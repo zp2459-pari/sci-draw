@@ -1,0 +1,57 @@
+name: sci_draw
+description: 跨平台科研绘图软件 - 输入文本一键生成符合顶刊规范的科研图
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  
+  # 网络请求
+  dio: ^5.4.0
+  
+  # 本地存储
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  
+  # SVG渲染
+  flutter_svg: ^2.0.10+1
+  
+  # 文件处理
+  path_provider: ^2.1.2
+  file_picker: ^8.0.0+1
+  share_plus: ^9.0.0
+  
+  # 加密存储
+  flutter_secure_storage: ^9.0.0
+  
+  # UI组件
+  flutter_markdown: ^0.7.3+2
+  
+  # 状态管理
+  provider: ^6.1.1
+  
+  # 工具
+  uuid: ^4.3.3
+  intl: ^0.19.0
+  
+  # 图像处理
+  image: ^4.1.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.8
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/templates/
+    - assets/icons/
